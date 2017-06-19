@@ -1,0 +1,11 @@
+[16-Jun-2017 19:29:22 America/Mexico_City] PHP Notice:  Undefined index: nombre in /home/softcari/admin.softcaribe.com.mx/actions/insertarUsuario.php on line 5
+[16-Jun-2017 19:29:33 America/Mexico_City] PHP Notice:  Undefined index: nombre in /home/softcari/admin.softcaribe.com.mx/actions/insertarUsuario.php on line 5
+[16-Jun-2017 19:36:44 America/Mexico_City] PHP Notice:  Undefined index: github in /home/softcari/admin.softcaribe.com.mx/actions/insertarUsuario.php on line 12
+[16-Jun-2017 19:45:47 America/Mexico_City] PHP Notice:  Undefined index: nombre in /home/softcari/admin.softcaribe.com.mx/actions/insertarUsuario.php on line 5
+[16-Jun-2017 19:45:47 America/Mexico_City] PHP Notice:  Undefined index: aPaterno in /home/softcari/admin.softcaribe.com.mx/actions/insertarUsuario.php on line 6
+[16-Jun-2017 19:45:47 America/Mexico_City] PHP Notice:  Undefined index: aMaterno in /home/softcari/admin.softcaribe.com.mx/actions/insertarUsuario.php on line 7
+[16-Jun-2017 19:45:47 America/Mexico_City] PHP Notice:  Undefined index: telefono in /home/softcari/admin.softcaribe.com.mx/actions/insertarUsuario.php on line 8
+[16-Jun-2017 19:45:47 America/Mexico_City] PHP Notice:  Undefined index: email in /home/softcari/admin.softcaribe.com.mx/actions/insertarUsuario.php on line 9
+[16-Jun-2017 19:45:47 America/Mexico_City] PHP Notice:  Undefined index: usuario in /home/softcari/admin.softcaribe.com.mx/actions/insertarUsuario.php on line 10
+[16-Jun-2017 19:45:47 America/Mexico_City] PHP Notice:  Undefined index: pass in /home/softcari/admin.softcaribe.com.mx/actions/insertarUsuario.php on line 11
+[16-Jun-2017 19:45:47 America/Mexico_City] PHP Notice:  Undefined index: git in /home/softcari/admin.softcaribe.com.mx/actions/insertarUsuario.php on line 12
